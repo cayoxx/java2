@@ -1,0 +1,21 @@
+package elenco;
+import java.util.ArrayList;
+public class Charles {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	ArrayList<String> carros = new ArrayList<String>();
+	
+	carros.add("Fusca Preto");
+	carros.add("Gol Quadrado");
+	carros.add("Gol");
+	carros.add("Uno");
+	carros.add("Helicóptero de Combate");
+
+	System.out.println(carros);
+	
+	
+
+	}
+
+}
